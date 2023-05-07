@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0hFAjJfz/fYcAuSaMnFpLWMc9uk3/WMtU3DndlyON25L/GVpzpjtkShM/Gk/FfN7GWdEMUaZCB/VxK96VgcSeQ==",
+  "dgSpecHash": "6k6wK/09dFCIf8JrAtiiO/ZkVeNYzOLC6r1X1DG2oWkUdSDJ2QopCLVk94iCJgEpFPDRinV2Mk+I5IwW8pmsaA==",
   "success": true,
   "projectFilePath": "C:\\Users\\w10\\OneDrive - IZU\\Masaüstü\\Projects\\ASPNETCore\\BlogCore_Project\\BusinessLayer\\BusinessLayer.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\w10\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\w10\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\w10\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

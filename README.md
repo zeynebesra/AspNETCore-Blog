@@ -1,6 +1,6 @@
 # Asp.NET Core Blog Projesi
 
-Murat Yücedağ ile ASP.Net Core 5.0 kampında 244 derste geliştirilmiştir.
+Murat Yücedağ ile ASP.Net Core 5.0 kursunda 244 derste proje geliştirme
 
 Projenin 3 temeli;
 
@@ -10,9 +10,8 @@ Projenin 3 temeli;
 
 - Admin paneli ise projenin esas kısmını oluşturmaktadır.
 
----
 
-## Kursun içeriğinde;
+### Kursun içeriğinde ;
 
 - AspNet Core 5.0
 - Entity Framework Core

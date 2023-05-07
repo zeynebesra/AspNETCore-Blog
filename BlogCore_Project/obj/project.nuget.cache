@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3zncruAtQllk27qmzOAD+z9Tj3f/9p5SRPzr8gWyzYUdVYTRjbB8mxT/lmAhHUbGKN1c7nSIAigiNKHf/YY2sw==",
+  "dgSpecHash": "f2wNRnWcs4UZiG0hhxbeQEMEAD65T5O75jTWXkS6CW41hILro+M7TnYcCbyuXaYFHQXnMAmmICjxZz1D2j0ukA==",
   "success": true,
   "projectFilePath": "C:\\Users\\w10\\OneDrive - IZU\\Masaüstü\\Projects\\ASPNETCore\\BlogCore_Project\\BlogCore_Project\\BlogCore_Project.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\w10\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\w10\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\w10\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
